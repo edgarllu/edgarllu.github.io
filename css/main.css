@@ -1,5 +1,20 @@
-h1 {background-color: rgba(175, 44, 44, 0.5);font-size: 100px; text-align: center; font-family: Poiret One}
-img {border-radius:  8px}
-body {font-family: Poiret One}
-	.fondo{background-color: grey;color: white;text-align: center;}
+h1 {
+	background-color: rgba(175, 44, 44, 0.5);
+	font-size: 100px;
+	text-align: center;
+	font-family: Poiret One, Verdana, Arial;
+}
+img {
+	border-radius:  8px
+}
+body {
+	font-family: Poiret One, Verdana, Arial
+}
+.fondo{
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+
+
 
