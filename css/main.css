@@ -1,20 +1,60 @@
 h1 {
 	background-color: rgba(175, 44, 44, 0.5);
-	font-size: 100px;
+	font-size: 50px;
 	text-align: center;
-	font-family: Poiret One, Verdana, Arial;
+	font-family: Pt Sans, Verdana, Arial;
 }
+
+
 img {
-	border-radius:  8px
+	border-radius: 20px
 }
+
+
 body {
-	font-family: Poiret One, Verdana, Arial
+	font-family: Pt Sans, Verdana, Arial
 }
+
+
+p{
+	text-indent: 5px
+}
+
+li{
+	text-indent: 5px
+}
+
+
 .fondo{
 	background-color: grey;
 	color: white;
 	text-align: center;
+	opacity: 0.3;
+	text-align: center;
 }
 
+.text-center {
+	text-align: center;
+}
 
+.smallit {
+	width: 12rem;
+	position: fixed;
+	z-index: 1;
+	text-align:right;
 
+}
+
+.nav{
+	display: inline-block;
+	width: 13rem
+	padding: 1rem 1.5rem;
+	text-align: center;
+}
+
+.box-align{
+	text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 2rem;
+}
