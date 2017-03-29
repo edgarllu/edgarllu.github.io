@@ -14,8 +14,7 @@
 
 .amlogo {
     
-    -webkit-filter: contrast(200%); 
-    filter: contrast(200%);
+    
 }
 
 ul.nav.navbar-nav.navbar-right {
@@ -194,7 +193,7 @@ body {
 i.fa.fa-envelope-o {
     font-size: 42px;
     color: #000;
-    margin-left: 11px;
+    margin-left: 70px;
 }
 
 i.fa.fa-instagram {
@@ -211,6 +210,9 @@ i.fa.fa-facebook {
 img.logo--saama {
     width: 285px;
     margin-left: 1000px;
+}
+img.logo--anamaya {
+    margin-right: 216px;
 }
 
 img.anamayastory {
