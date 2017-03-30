@@ -3,6 +3,10 @@
   border-bottom: none;
 }
 
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #fff;
+}
+
 .navbar-inverse .navbar-toggle {
   border: 1px solid #333;
   border-color: rgba(255, 255, 255, 0.7);
@@ -48,7 +52,7 @@ img.flower {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000;
 }
 .navbar.less:215
 .navbar-toggle .icon-bar {
