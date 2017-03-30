@@ -4,7 +4,7 @@
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #fff;
+  background: #fff;
 }
 
 .navbar-inverse .navbar-toggle {
