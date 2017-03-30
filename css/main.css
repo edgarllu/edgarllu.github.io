@@ -248,4 +248,17 @@ img.logo--saama--footer {
     width: 285px;
     margin-left: 0;
   }
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+  .jumbotron {
+    padding-top: 0;
+    padding-bottom: 0;
+    background: url(../img/lotus1.jpg);
+    background-size: cover;
+    height: 80rem;
+    background-repeat: no-repeat;
+    transition: background .5s ease-in-out;
+}
 }
